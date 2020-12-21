@@ -17,7 +17,7 @@
                     
 # [Project 2 - Predict Future Prices Using Facebook Prophet](https://github.com/RushikeshPokale/Predict-Future-Prices-Using-Facebook-Prophet)
 
-![](/Images/forcastingintofuture.png)
+![](/Images/forecast2.png)
 
 ![](/Images/avgerage price of avocado.png)
   
