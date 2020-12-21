@@ -18,15 +18,13 @@
 # [Project 2 - Predict Future Prices Using Facebook Prophet](https://github.com/RushikeshPokale/Predict-Future-Prices-Using-Facebook-Prophet)
   
   a. In this project we will predict the future prices of avocados using Facebook Prophet.
-  
+  ![](/Images/forcasting%20into%20future.png)
   b. Prophet is an open source tool used for time series forecasting.
   
   c. Facebook team uses Prophet for accurate forcasting and planning.
   
   d. No need to perform data pre-processing
   
-  
+  ![](/Images/avgerage%20price%20of%20avocado.png)
 
-![](/Images/avgerage%20price%20of%20avocado.png)
 
-![](/Images/forcasting%20into%20future.png)
