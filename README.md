@@ -13,7 +13,7 @@
   d. Operations Performed:
                     - Used **Logistic Regression** as suggested to be best method By **TPOT library**
                      
- # Project 2 - Predict Future Prices Using Facebook Prophet
+ # [Project 2 - Predict Future Prices Using Facebook Prophet](https://github.com/RushikeshPokale/Predict-Future-Prices-Using-Facebook-Prophet)
 
   a. In this project, we will predict the future prices of avocados using Facebook Prophet.
 
