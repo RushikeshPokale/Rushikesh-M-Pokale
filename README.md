@@ -12,7 +12,7 @@
   d. Operations Performed:
                     - Used **Logistic Regression** as suggested to be best method By **TPOT library**
            
-![](https://github.com/RushikeshPokale/Rushikesh_Portfolio/blob/main/Images/Tpot.png)
+![](/Images/Tpot.png)
                     
                     
 # [Project 2 - Predict Future Prices Using Facebook Prophet](https://github.com/RushikeshPokale/Predict-Future-Prices-Using-Facebook-Prophet)
@@ -27,6 +27,6 @@
   
   
 
-![](https://github.com/RushikeshPokale/Rushikesh_Portfolio/blob/main/Images/avgerage%20price%20of%20avocado.png)
+![](/Images/avgerage%20price%20of%20avocado.png)
 
-![](https://github.com/RushikeshPokale/Rushikesh_Portfolio/blob/main/Images/forcasting%20into%20future.png)
+![](/Images/forcasting%20into%20future.png)
