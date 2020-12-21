@@ -19,8 +19,6 @@
 
 ![](/Images/forecast2.png)
 
-![](/Images/avgprice.png)
-  
   a. In this project we will predict the future prices of avocados using Facebook Prophet.
   
  
@@ -28,8 +26,9 @@
   
   c. Facebook team uses Prophet for accurate forcasting and planning.
   
-  d. No need to perform data pre-processing
-  
+  d. No need to perform data pre-processing.
+ 
+![](/Images/avgprice.png)  
   
 
 
