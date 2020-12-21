@@ -19,7 +19,7 @@
 
 ![](/Images/forcastingintofuture.png)
 
-![](/Images/avgeragepriceofavocado.png)
+![](/Images/avgerage price of avocado.png)
   
   a. In this project we will predict the future prices of avocados using Facebook Prophet.
   
