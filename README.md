@@ -19,6 +19,7 @@
   
   a. In this project we will predict the future prices of avocados using Facebook Prophet.
   ![](/Images/forcasting%20into%20future.png)
+ 
   b. Prophet is an open source tool used for time series forecasting.
   
   c. Facebook team uses Prophet for accurate forcasting and planning.
