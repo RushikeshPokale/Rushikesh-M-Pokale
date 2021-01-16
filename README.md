@@ -30,7 +30,7 @@
  
 ![](/Images/avgprice.png)  
 
-# [Project 3 - Visualization of Credit Card Defaults Using Power BI]()
+# [Project 3 - Visualization of Credit Card Defaults Using Power BI](https://github.com/RushikeshPokale/Visualization-of-Credit-Card-Defaults-Using-Power-BI)
 
 ![](/Images/CreditCardDefault.png)
 
