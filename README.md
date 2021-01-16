@@ -27,7 +27,7 @@
   c. Facebook team uses Prophet for accurate forcasting and planning.
   
   d. No need to perform data pre-processing.
- 
+  
 ![](/Images/avgprice.png)  
 
 # [Project 3 - Visualization of Credit Card Defaults Using Power BI](https://github.com/RushikeshPokale/Visualization-of-Credit-Card-Defaults-Using-Power-BI)
@@ -37,6 +37,8 @@
 # [Project 4 - Visualizing Citibike Trips with Tableau](https://public.tableau.com/profile/rushikesh.pokale#!/vizhome/CITIBIKE_16043464092430/Citi_Bike_Rides)
 
 ![](/Images/CITIBIKE.png)
+
+ # [RESUME](https://github.com/RushikeshPokale/Rushikesh_Portfolio/blob/main/Rushikesh_M_Pokale.pdf)
 
 
 
