@@ -36,7 +36,7 @@
 
 # [Project 4 - Visualizing Citibike Trips with Tableau](https://public.tableau.com/profile/rushikesh.pokale#!/vizhome/CITIBIKE_16043464092430/Citi_Bike_Rides)
 
-![](/Images/CreditCardDefault.png)
+![](/Images/CITIBIKE.png)
 
 
 
