@@ -29,6 +29,17 @@
   d. No need to perform data pre-processing.
  
 ![](/Images/avgprice.png)  
+
+# [Project 3 - Visualization of Credit Card Defaults Using Power BI]()
+
+![](/Images/CreditCardDefault.png)
+
+# [Project 4 - Visualizing Citibike Trips with Tableau](https://public.tableau.com/profile/rushikesh.pokale#!/vizhome/CITIBIKE_16043464092430/Citi_Bike_Rides)
+
+![](/Images/CreditCardDefault.png)
+
+
+
   
 
 
