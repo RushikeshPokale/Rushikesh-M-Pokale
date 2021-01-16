@@ -38,7 +38,7 @@
 
 ![](/Images/CITIBIKE.png)
 
- # [RESUME](https://github.com/RushikeshPokale/Rushikesh_Portfolio/blob/main/Rushikesh_M_Pokale.pdf)
+# [RESUME](https://github.com/RushikeshPokale/Rushikesh_Portfolio/blob/main/Rushikesh_M_Pokale.pdf)
 
 
 
