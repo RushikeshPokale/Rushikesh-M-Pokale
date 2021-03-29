@@ -40,7 +40,8 @@
 
 # [Project 5 - Sales Insight of a Hardware Company](https://public.tableau.com/profile/rushikesh.pokale#!/vizhome/SalesInsight_16169556244910/Dashboard1)
 
-![](/Images/SalesInsightDashboard.png)
+![](Images/salesinsightdashboard.png)
+
 # ***[RESUME](https://github.com/RushikeshPokale/Rushikesh_Portfolio/blob/main/RMP.pdf)***
 
 
